@@ -1,21 +1,31 @@
-# Flutter Newsapp
+'NewsToday'
+Aplikasi ini dirancang untuk menyajikan tentang berita seputar info bisnis,Olahraga,Science,Kesahatan menggunakan Flutter dan API,APi disini yang digunakan ialah 'NewsAPi' = https://newsapi.org/ ,Dimana setiap berita yang di sajikan di ambil dari sana.
 
-A Flutter News App a Kick Start Guide
+<h1>"Tampilan Menu utama Aplikasi "</h1><br>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/menuUtama.png" alt="alt text" width="350" height="350">
+ 
+ <h2>Ketika user memilih info bisnis,Kesehatan,Sceince,dan Olahraga,maka outputnya akan seperti ini</h2>
+ 
+<h3>"Tampilan Menu info bisnis "</h3><br>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/BeritaBisnis.png" alt="alt text" width="350" height="350"><br>
 
-## Getting Started
-Get Your [NewsApi Key](https://newsapi.org/)
-Enter the key into the constant file
+<h3>"Tampilan Menu info Kesehatan "</h3><br>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/BeritaKesehatan.png" alt="alt text" width="350" height="350"><br>
 
-class Constant{
-  
-  static String base_url ="https://newsapi.org/v2/";
-  
-  static String key = "Put_your_key_here"; 
+<h3>"Tampilan Menu info Science "</h3><br>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/BeritaScience.png" alt="alt text" width="350" height="350"><br>
 
-}
+<h3>"Tampilan Menu info Olahraga "</h3><br>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/BeritaOlahraga.png" alt="alt text" width="350" height="350"><br>
 
-Clone the Project and Try to do it at your end make more freatures.
+<h2> Dan jika user mengklik salah satu berita,contohnya berita pada kesahatan,maka tampilannya akan seperti ini</h2>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/kshtn2.png" alt="alt text" width="350" height="350"><br>
+ 
+ 
 
 
-For more help getting started with Flutter, there online
-[documentation](https://flutter.io/).
+
+
+ 
+
+
